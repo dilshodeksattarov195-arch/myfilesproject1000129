@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsecrypt",
+        "uuid": 620232,
+        "checksum": "fxbzial"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
